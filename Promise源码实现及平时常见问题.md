@@ -1,6 +1,6 @@
 
 ---
-title: Promise/A+源码实现及平时常见问题
+Promise/A+源码实现及平时常见问题
 ---
 
 
