@@ -1,8 +1,5 @@
 
----
 Promise/A+源码实现及平时常见问题
----
-
 
 ## Promise
 promise是解决回调的问题的，通过then的链式调用，让我们能更清晰的理解阅读代码，下面我们剖析Promise内部结构，一步一步实现一个完整的、能通过所有Test case的Promise类。
